@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #080808;
+   color: rgb(235, 226, 226);
+   margin: 0;
+   }
+
+.header1{
+    background-color: rgb(226, 52, 182);
+ }
+
+ .header2 {
+    background-color: rgb(240, 16, 16);
+ }
+
+ .header3 {
+    background-color: rgb(55, 238, 38);
+ }
+
+ .header4 {
+    background-color: rgba(226, 226, 32, 0.884);
+ }
+
+.header5 {
+    background-color: rgb(10, 189, 189);
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+header a:hover {
+    color: black;
+}
+
+ol {
+    margin: 1.3%;
+    padding: 1.3%;
+ }
+
+ ul {
+    margin: 1.3%;
+    padding: 1.3%;
+ }
+
+footer {
+    background-color: rgb(22, 17, 100);
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.3;
+}
+
+.imagen1 {
+    width: 24rem;
+    height: 23rem;
+}
+
+.tresmonos {
+   width: 30%;
+}
+
+.presidente-bar {
+    width: 30%;
+}
+
+.uptown {
+    width: 30%;
+}
+
+
+
+.fernet {
+    width: 45%;
+    
+}
+
+.gin-tonic {
+    width: 45%;
+}
+
+.caipi {
+    width: 45%;
+}
+
+
+.coctel1 {
+    width: 45%;
+}
+
+.coctel2 {
+    width: 55%;
+}
+
+.ale {
+    width: 50%;
+}
+
+.ipa {
+    width: 50%;
+}
+
+
+
+   
